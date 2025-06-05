@@ -114,4 +114,4 @@ This project implements a deep learning model to recognize American Sign Languag
 ## 📄 License
 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LISENCE file for details.
