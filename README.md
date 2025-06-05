@@ -113,4 +113,4 @@ This project implements a deep learning model to recognize American Sign Languag
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the https://github.com/shreya-13-04/Sign-Language/blob/main/LICENSE file for details.[LICENSE](https://github.com/shreya-13-04/Sign-Language/blob/main/LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shreya-13-04/Sign-Language/blob/main/LICENSE) file for details.
